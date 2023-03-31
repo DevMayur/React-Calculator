@@ -2,8 +2,6 @@
 
 This is a simple calculator app built with React. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-![Screenshot of the React Calculator app](screenshot.png)
-
 ## Features
 
 -   Add, subtract, multiply, and divide two numbers
