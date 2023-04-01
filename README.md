@@ -22,7 +22,3 @@ To run this app on your local machine, you'll need to have Node.js and npm insta
 ## Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request. Please make sure that your code follows the existing style and that you've added tests for any new functionality.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
